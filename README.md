@@ -30,3 +30,5 @@ All the documents in the corpus are obtained from publicly available sources in 
 [3] District of Columbia Language Access Act Fact Sheet 2004. Available online: https://ohr.dc.gov/publication/know-your-rightscards-amharic (accessed on 6 January 2021).
 
 [4] Gereme, Fantahun; Zhu, William; Ayall, Tewodros; Alemu, Dagmawi. 2021. "Combating Fake News in “Low-Resource” Languages: Amharic Fake News Detection Accompanied by Resource Crafting". Information 12, no. 1: 20.
+
+# Download (coming soon)
