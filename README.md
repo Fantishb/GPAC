@@ -15,7 +15,7 @@ regard. Since an already existing corpora and other resources are limited, we ho
 
 
 # Citation
-When you use this corpus please site the original paper associated with it.  
+When you use this corpus please cite the original paper associated with it.  
 [Gereme, Fantahun; Zhu, William; Ayall, Tewodros; Alemu, Dagmawi. 2021. Combating Fake News in “Low-Resource” Languages: Amharic Fake News Detection Accompanied by Resource Crafting. Information volume 12, Issue 1: 20.]  available at    [https://www.mdpi.com/2078-2489/12/1/20#cite]
 
 # License
@@ -24,6 +24,9 @@ All the documents in the corpus are obtained from publicly available sources in 
 
 # References
 [1] Ronny, M. Amharic as lingua franca in Ethiopia. Lissan J. Afr. Lang. Linguist. 2006, 20, 117–131.
+
 [2] Anbessa, T. Amharic: Political and social effects on English loan words. In Globally Speaking: Motives for Adopting English Vocabulary in Other Languages; Rosenhouse, J., Kowner, R., Eds.; Multilingual Matters: Bristol, UK, 2008; p. 165.
+
 [3] District of Columbia Language Access Act Fact Sheet 2004. Available online: https://ohr.dc.gov/publication/know-your-rightscards-amharic (accessed on 6 January 2021).
+
 [4] Gereme, Fantahun; Zhu, William; Ayall, Tewodros; Alemu, Dagmawi. 2021. "Combating Fake News in “Low-Resource” Languages: Amharic Fake News Detection Accompanied by Resource Crafting". Information 12, no. 1: 20.
