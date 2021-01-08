@@ -16,7 +16,11 @@ regard. Since an already existing corpora and other resources are limited, we ho
 
 # Citation
 When you use this corpus please cite the original paper associated with it.  
-[Gereme, Fantahun; Zhu, William; Ayall, Tewodros; Alemu, Dagmawi. 2021. Combating Fake News in “Low-Resource” Languages: Amharic Fake News Detection Accompanied by Resource Crafting. Information volume 12, Issue 1: 20.]  available at    [https://www.mdpi.com/2078-2489/12/1/20#cite]
+[Gereme, Fantahun; Zhu, William; Ayall, Tewodros; Alemu, Dagmawi. 2021. Combating Fake News in “Low-Resource” Languages: Amharic Fake News Detection Accompanied by Resource Crafting. Information volume 12, Issue 1: 20.]  
+
+available at   url: [https://www.mdpi.com/2078-2489/12/1/20#cite]
+
+               doi: https://doi.org/10.3390/info12010020
 
 # License
 All the documents in the corpus are obtained from publicly available sources in the Web. The corpus has been obtained by crawling the Web. In this distribution, for copyright reasons, the order of sentences are shuffled. By downloading this corpus you agree that the corpus should only be used for education and research purposes.
