@@ -35,4 +35,9 @@ All the documents in the corpus are obtained from publicly available sources in 
 
 [4] Gereme, Fantahun; Zhu, William; Ayall, Tewodros; Alemu, Dagmawi. 2021. "Combating Fake News in “Low-Resource” Languages: Amharic Fake News Detection Accompanied by Resource Crafting". Information 12, no. 1: 20.
 
-# Download (coming soon)
+# Download: Use the following link to download
+
+GPAC
+https://drive.google.com/file/d/1Yl_rtSj63VYCRY15ZBL-RmFsG-r5Q7hY/view?usp=share_link
+
+
