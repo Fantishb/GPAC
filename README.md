@@ -39,5 +39,6 @@ All the documents in the corpus are obtained from publicly available sources in 
 
 GPAC: General Purpose Amharic Corpus 
 https://drive.google.com/file/d/1Yl_rtSj63VYCRY15ZBL-RmFsG-r5Q7hY/view?usp=share_link
+https://drive.google.com/file/d/1Yl_rtSj63VYCRY15ZBL-RmFsG-r5Q7hY/view?usp=drive_link
 
 
